@@ -1,0 +1,61 @@
+food_id,food_name,category,food_type,source_basis,serving_size_g,calories_kcal,protein_g,carbs_g,sugar_g,fiber_g,fat_g,sodium_mg,potassium_mg,glycemic_load_category,common_allergens,diabetes_risk,ckd_risk,hypertension_risk,pcos_risk,notes
+F001,Plain Roti (Wheat),Staple,Homemade,IFCT2017,40,120,3.1,22,0.5,3.0,2.5,2,90,Medium,Gluten,Medium,Low,Low,Medium,Whole wheat; moderate GI
+F002,White Rice (Cooked),Staple,Homemade,IFCT2017,150,200,4.2,45,0.1,0.6,0.4,2,55,High,None,High,Low,Low,Medium,High glycemic load; portion control advised
+F003,Brown Rice (Cooked),Staple,Homemade,IFCT2017,150,215,5.0,45,0.2,3.5,1.8,3,140,Medium,None,Medium,Low,Low,Low,Better fiber than white rice
+F004,Dal Tadka (Toor Dal),Curry,Homemade,IFCT2017,200,180,9.0,24,2.0,6.0,5.0,420,320,Low,None,Low,Medium,Medium,Low,Sodium varies by added salt
+F005,Rajma (Kidney Bean Curry),Curry,Homemade,IFCT2017,200,230,10.5,30,3.0,9.0,6.5,380,450,Medium,None,Medium,Medium,Medium,Low,Good protein and fiber
+F006,Paneer Butter Masala,Curry,Homemade,IFCT2017,200,280,14.0,12,6.0,2.5,20.0,540,290,Low,Dairy,Low,High,High,Medium,High sodium and saturated fat
+F007,Palak Paneer,Curry,Homemade,IFCT2017,200,240,13.5,10,3.5,3.5,17.0,410,480,Low,Dairy,Low,Medium,Medium,Low,High iron; watch sodium
+F008,Aloo Gobi,Curry,Homemade,IFCT2017,200,150,3.5,22,4.0,4.5,5.5,320,380,Medium,None,Medium,Low,Medium,Low,Moderate carbs from potato
+F009,Sambar,Curry,Homemade,IFCT2017,200,140,6.0,20,3.0,5.0,3.5,450,300,Low,None,Low,Medium,Medium,Low,Sodium depends on preparation
+F010,Curd/Dahi (Plain),Dairy,Homemade,IFCT2017,100,60,3.3,4.7,4.7,0,3.3,45,150,Low,Dairy,Low,Low,Low,Low,Probiotic; good for gut health
+F011,Milk (Full Cream),Dairy,Packaged,IFCT2017,200,130,6.4,10,10,0,7.0,90,320,Low,Dairy,Medium,Medium,Low,Low,Natural sugar (lactose)
+F012,Toned Milk,Dairy,Packaged,IFCT2017,200,100,6.6,9.6,9.6,0,3.0,100,300,Low,Dairy,Medium,Medium,Low,Low,Lower fat than full cream
+F013,Samosa (2 pieces),Snack,Packaged/Fried,Mendeley2026,100,260,5.0,36,2.0,3.0,11.0,380,260,Medium,Gluten,Medium,Medium,High,High,Deep fried; high sodium and fat
+F014,Pakora (Mixed Veg),Snack,Fried,IFCT2017,100,230,4.5,24,1.5,3.0,13.0,340,220,Medium,Gluten,Medium,Medium,High,Medium,Deep fried
+F015,Masala Namkeen Mix,Snack,Packaged,OpenFoodFactsIndia,50,270,6.0,28,2.0,3.0,16.0,620,180,Medium,Gluten;Peanut,Medium,High,High,High,Very high sodium per 50g serving
+F016,Digestive Biscuits,Snack,Packaged,OpenFoodFactsIndia,30,140,2.5,20,4.5,1.0,5.5,110,60,Medium,Gluten,Medium,Low,Low,Medium,Added sugar present
+F017,Cream Biscuits,Snack,Packaged,OpenFoodFactsIndia,30,150,1.8,22,11.0,0.5,6.0,90,40,High,Gluten;Dairy,High,Low,Low,High,High added sugar
+F018,Salted Potato Chips,Snack,Packaged,OpenFoodFactsIndia,30,160,2.0,15,0.5,1.2,10.5,190,320,Low,None,Low,Medium,High,Medium,High sodium per small pack
+F019,Roasted Makhana (Fox Nuts),Snack,Packaged,OpenFoodFactsIndia,30,105,3.5,18,0.5,2.0,1.5,60,150,Low,None,Low,Low,Low,Low,Healthier low-sodium snack alternative
+F020,Roasted Chana (Chickpea),Snack,Packaged,OpenFoodFactsIndia,30,120,6.5,18,1.0,5.5,2.0,40,220,Low,None,Low,Low,Low,Low,High protein and fiber snack alternative
+F021,Mixed Fruit Juice (Packaged),Beverage,Packaged,OpenFoodFactsIndia,200,110,0.5,26,24,0.5,0.1,15,180,High,None,High,Low,Low,High,High free sugar content
+F022,Buttermilk/Chaas (Salted),Beverage,Homemade,IFCT2017,200,40,2.0,3.5,3.0,0,1.0,220,180,Low,Dairy,Low,Medium,Medium,Low,Lower calorie dairy option
+F023,Carbonated Cola Drink,Beverage,Packaged,OpenFoodFactsIndia,300,130,0,33,33,0,0,25,5,High,None,High,Low,Low,High,No nutritional value; high sugar
+F024,Coconut Water (Fresh),Beverage,Homemade,IFCT2017,200,38,1.4,7.4,6.4,1.8,0.4,50,500,Low,None,Low,High,Low,Low,High potassium; caution advised for CKD
+F025,Masala Chai (with sugar),Beverage,Homemade,IFCT2017,150,80,2.0,10,9,0,3.0,20,120,Medium,Dairy,Medium,Low,Low,Medium,Sugar content varies by preparation
+F026,Idli (2 pieces),Breakfast,Homemade,IFCT2017,100,120,4.0,24,0.5,1.5,0.5,180,110,Medium,None,Medium,Low,Low,Low,Steamed; low fat
+F027,Masala Dosa,Breakfast,Homemade,IFCT2017,150,250,6.0,35,2.0,2.5,9.0,380,290,Medium,None,Medium,Medium,Medium,Medium,Fried element adds fat and sodium
+F028,Poha,Breakfast,Homemade,IFCT2017,150,180,4.0,30,2.0,2.0,5.0,280,190,Medium,Peanut,Medium,Low,Medium,Low,Peanuts often added; check allergen
+F029,Upma,Breakfast,Homemade,IFCT2017,150,190,5.0,28,1.5,2.5,6.0,310,160,Medium,Gluten,Medium,Low,Medium,Low,Semolina based
+F030,Paratha (Stuffed Aloo),Breakfast,Homemade,IFCT2017,100,260,5.5,35,1.0,3.0,10.0,340,320,Medium,Gluten,Medium,Medium,Medium,Medium,Oil/ghee content varies
+F031,Boiled Egg,Protein,Homemade,IFCT2017,50,78,6.3,0.6,0.6,0,5.3,62,63,Low,Egg,Low,Low,Low,Low,Good protein source
+F032,Chicken Curry,Curry,Homemade,IFCT2017,200,280,22.0,8.0,2.0,1.5,17.0,420,380,Low,None,Low,Medium,Medium,Low,Sodium depends on preparation
+F033,Fish Curry,Curry,Homemade,IFCT2017,200,230,20.0,6.0,1.5,1.0,13.0,380,420,Low,Fish,Low,Medium,Medium,Low,Good omega-3 source
+F034,Mutton Curry,Curry,Homemade,IFCT2017,200,320,24.0,7.0,2.0,1.0,22.0,450,360,Low,None,Low,High,Medium,Low,Higher saturated fat
+F035,Banana (Medium),Fruit,Fresh,IFCT2017,100,89,1.1,23,12,2.6,0.3,1,358,Medium,None,Medium,High,Low,Low,High potassium; caution for CKD
+F036,Apple (Medium),Fruit,Fresh,IFCT2017,100,52,0.3,14,10,2.4,0.2,1,107,Low,None,Low,Low,Low,Low,Low glycemic load; good general choice
+F037,Mango (100g),Fruit,Fresh,IFCT2017,100,60,0.8,15,14,1.6,0.4,2,168,Medium,None,Medium,Medium,Low,Medium,Higher natural sugar
+F038,Orange (Medium),Fruit,Fresh,IFCT2017,100,47,0.9,12,9,2.4,0.1,0,181,Low,None,Low,Medium,Low,Low,Good vitamin C source
+F039,Watermelon (100g),Fruit,Fresh,IFCT2017,100,30,0.6,8,6,0.4,0.2,1,112,Medium,None,Medium,Low,Low,Low,High water content, moderate sugar
+F040,Spinach (Cooked, 100g),Vegetable,Homemade,IFCT2017,100,23,2.9,3.6,0.4,2.2,0.4,79,558,Low,None,Low,High,Low,Low,Very high potassium; CKD caution
+F041,Bottle Gourd (Lauki, Cooked),Vegetable,Homemade,IFCT2017,100,15,0.6,3.4,1.5,1.2,0.1,2,150,Low,None,Low,Low,Low,Low,Low calorie, low potassium option
+F042,Bhindi (Okra, Cooked),Vegetable,Homemade,IFCT2017,100,33,1.9,7.0,1.5,3.2,0.2,7,300,Low,None,Low,Medium,Low,Low,Good fiber content
+F043,Potato (Boiled),Vegetable,Homemade,IFCT2017,100,87,1.9,20,0.9,1.8,0.1,5,420,Medium,None,Medium,High,Low,Medium,High potassium; CKD caution
+F044,Tomato (Fresh),Vegetable,Homemade,IFCT2017,100,18,0.9,3.9,2.6,1.2,0.2,5,237,Low,None,Low,Medium,Low,Low,Common allergen trigger in some
+F045,Peanuts (Roasted),Snack,Packaged,OpenFoodFactsIndia,30,170,7.8,6.0,1.0,2.5,14.0,5,220,Low,Peanut,Low,Medium,Low,Low,Common allergen; high fat content
+F046,Cashew Nuts,Snack,Packaged,OpenFoodFactsIndia,30,165,5.5,9.0,1.5,1.0,13.0,3,190,Low,Tree nut,Low,Medium,Low,Low,Common allergen
+F047,Almonds,Snack,Packaged,OpenFoodFactsIndia,30,174,6.4,6.1,1.2,3.5,15.0,0,220,Low,Tree nut,Low,Medium,Low,Low,Good fiber-to-carb ratio
+F048,Gulab Jamun (2 pieces),Sweet,Homemade,IFCT2017,100,300,4.0,45,38,0.5,12.0,60,90,High,Dairy;Gluten,High,Low,Low,High,Very high sugar content
+F049,Rasgulla (2 pieces),Sweet,Packaged,OpenFoodFactsIndia,100,186,4.0,33,30,0.2,4.0,45,70,High,Dairy,High,Low,Low,High,High sugar; lower fat than gulab jamun
+F050,Jalebi (100g),Sweet,Homemade,IFCT2017,100,350,2.0,60,45,0.3,12.0,40,50,High,Gluten,High,Low,Low,High,Very high sugar and refined carbs
+F051,Dark Chocolate (70%),Sweet,Packaged,OpenFoodFactsIndia,20,110,1.5,9,6,2.0,8.0,5,140,Medium,Dairy trace,Medium,Low,Low,Low,Lower sugar than milk chocolate
+F052,Instant Noodles (Masala),Packaged Meal,Packaged,OpenFoodFactsIndia,70,310,6.5,45,3.0,2.0,12.0,890,140,Medium,Gluten,Medium,High,High,Medium,Very high sodium per serving
+F053,Frozen Mixed Vegetables,Packaged Meal,Packaged,OpenFoodFactsIndia,100,65,3.0,12,3.0,4.0,0.5,45,220,Low,None,Low,Low,Low,Low,Minimal processing; low sodium
+F054,Ketchup (Tomato),Condiment,Packaged,OpenFoodFactsIndia,15,18,0.2,4.5,3.8,0.2,0.0,140,60,Medium,None,Medium,Low,Medium,Low,High sugar and sodium per small serving
+F055,Soy Sauce,Condiment,Packaged,OpenFoodFactsIndia,10,8,0.9,0.8,0.1,0.1,0.0,880,30,Low,Soy;Gluten,Low,High,High,Low,Extremely high sodium concentration
+F056,Papad (Roasted),Snack,Packaged,OpenFoodFactsIndia,15,45,2.5,7.0,0.5,1.0,1.0,320,85,Low,None,Low,Medium,High,Low,High sodium relative to size
+F057,Ghee (Clarified Butter),Fat,Homemade,IFCT2017,10,90,0,0,0,0,10.0,0,2,Low,Dairy,Low,Low,Low,Medium,Pure fat; portion control needed
+F058,Mustard Oil,Fat,Packaged,OpenFoodFactsIndia,10,90,0,0,0,0,10.0,0,0,Low,None,Low,Low,Low,Low,Common cooking oil
+F059,Green Tea (Unsweetened),Beverage,Packaged,OpenFoodFactsIndia,200,2,0,0,0,0,0,2,20,Low,None,Low,Low,Low,Low,Negligible calories/sodium
+F060,Oats (Cooked, Plain),Breakfast,Packaged,USDA_FDC,150,150,5.0,27,1.0,4.0,2.5,5,160,Low,Gluten trace,Low,Low,Low,Low,Good soluble fiber for cholesterol/glucose

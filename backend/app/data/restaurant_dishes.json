@@ -1,0 +1,472 @@
+[
+ {
+  "name": "Paneer Butter Masala",
+  "ingredients": [
+   "paneer",
+   "butter",
+   "cream",
+   "tomato",
+   "cashew paste",
+   "onion",
+   "ginger",
+   "garlic",
+   "spices",
+   "sugar",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 450,
+   "protein": 16,
+   "carbohydrates": 18,
+   "sugar": 8,
+   "fiber": 3,
+   "fat": 32,
+   "sodium": 900
+  },
+  "ranges": {
+   "calories": [
+    380,
+    520
+   ],
+   "sodium": [
+    700,
+    1100
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Veg Biryani",
+  "ingredients": [
+   "basmati rice",
+   "mixed vegetables",
+   "onion",
+   "curd",
+   "ghee",
+   "biryani masala",
+   "cashew",
+   "saffron",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 550,
+   "protein": 10,
+   "carbohydrates": 70,
+   "sugar": 5,
+   "fiber": 5,
+   "fat": 18,
+   "sodium": 1150
+  },
+  "ranges": {
+   "calories": [
+    450,
+    650
+   ],
+   "sodium": [
+    900,
+    1400
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Chicken Biryani",
+  "ingredients": [
+   "basmati rice",
+   "chicken",
+   "onion",
+   "curd",
+   "ghee",
+   "biryani masala",
+   "saffron",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 650,
+   "protein": 28,
+   "carbohydrates": 65,
+   "sugar": 4,
+   "fiber": 3,
+   "fat": 22,
+   "sodium": 1250
+  },
+  "ranges": {
+   "calories": [
+    550,
+    750
+   ],
+   "sodium": [
+    1000,
+    1500
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Masala Dosa",
+  "ingredients": [
+   "rice",
+   "urad dal",
+   "potato",
+   "onion",
+   "mustard seeds",
+   "curry leaves",
+   "butter",
+   "vegetable oil",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 375,
+   "protein": 8,
+   "carbohydrates": 48,
+   "sugar": 3,
+   "fiber": 4,
+   "fat": 14,
+   "sodium": 750
+  },
+  "ranges": {
+   "calories": [
+    300,
+    450
+   ],
+   "sodium": [
+    600,
+    900
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Margherita Pizza (medium, 4 slices)",
+  "ingredients": [
+   "refined wheat flour (maida)",
+   "mozzarella cheese",
+   "tomato sauce",
+   "olive oil",
+   "yeast",
+   "sugar",
+   "salt",
+   "oregano"
+  ],
+  "nutrition": {
+   "calories": 950,
+   "protein": 34,
+   "carbohydrates": 110,
+   "sugar": 10,
+   "fiber": 5,
+   "fat": 32,
+   "sodium": 1900
+  },
+  "ranges": {
+   "calories": [
+    800,
+    1100
+   ],
+   "sodium": [
+    1600,
+    2200
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Veg Burger",
+  "ingredients": [
+   "burger bun (refined wheat flour, sugar, yeast, sesame seeds)",
+   "potato patty",
+   "mayonnaise",
+   "cheese",
+   "lettuce",
+   "tomato",
+   "onion",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 550,
+   "protein": 13,
+   "carbohydrates": 60,
+   "sugar": 10,
+   "fiber": 4,
+   "fat": 24,
+   "sodium": 1100
+  },
+  "ranges": {
+   "calories": [
+    450,
+    650
+   ],
+   "sodium": [
+    900,
+    1300
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Chole Bhature",
+  "ingredients": [
+   "chickpeas",
+   "refined wheat flour (maida)",
+   "curd",
+   "onion",
+   "tomato",
+   "chole masala",
+   "vegetable oil",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 775,
+   "protein": 18,
+   "carbohydrates": 90,
+   "sugar": 6,
+   "fiber": 12,
+   "fat": 32,
+   "sodium": 1350
+  },
+  "ranges": {
+   "calories": [
+    650,
+    900
+   ],
+   "sodium": [
+    1100,
+    1600
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Pav Bhaji",
+  "ingredients": [
+   "mixed vegetables",
+   "potato",
+   "butter",
+   "pav (refined wheat flour, yeast, sugar)",
+   "onion",
+   "tomato",
+   "spices",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 600,
+   "protein": 12,
+   "carbohydrates": 75,
+   "sugar": 9,
+   "fiber": 8,
+   "fat": 22,
+   "sodium": 1350
+  },
+  "ranges": {
+   "calories": [
+    500,
+    700
+   ],
+   "sodium": [
+    1100,
+    1600
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Veg Hakka Noodles",
+  "ingredients": [
+   "refined wheat flour noodles",
+   "cabbage",
+   "capsicum",
+   "carrot",
+   "soy sauce",
+   "vinegar",
+   "vegetable oil",
+   "monosodium glutamate",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 550,
+   "protein": 10,
+   "carbohydrates": 75,
+   "sugar": 6,
+   "fiber": 5,
+   "fat": 16,
+   "sodium": 1600
+  },
+  "ranges": {
+   "calories": [
+    450,
+    650
+   ],
+   "sodium": [
+    1300,
+    1900
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Veg Manchurian (gravy)",
+  "ingredients": [
+   "cabbage",
+   "carrot",
+   "refined wheat flour (maida)",
+   "corn flour",
+   "soy sauce",
+   "garlic",
+   "ginger",
+   "vegetable oil",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 425,
+   "protein": 7,
+   "carbohydrates": 40,
+   "sugar": 7,
+   "fiber": 4,
+   "fat": 20,
+   "sodium": 1450
+  },
+  "ranges": {
+   "calories": [
+    350,
+    500
+   ],
+   "sodium": [
+    1200,
+    1700
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Veg Momos (6 pieces)",
+  "ingredients": [
+   "refined wheat flour (maida)",
+   "cabbage",
+   "carrot",
+   "onion",
+   "garlic",
+   "soy sauce",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 300,
+   "protein": 7,
+   "carbohydrates": 45,
+   "sugar": 3,
+   "fiber": 3,
+   "fat": 6,
+   "sodium": 750
+  },
+  "ranges": {
+   "calories": [
+    250,
+    350
+   ],
+   "sodium": [
+    600,
+    900
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Dal Makhani",
+  "ingredients": [
+   "black gram",
+   "kidney beans",
+   "butter",
+   "cream",
+   "tomato",
+   "ginger",
+   "garlic",
+   "spices",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 415,
+   "protein": 14,
+   "carbohydrates": 35,
+   "sugar": 5,
+   "fiber": 10,
+   "fat": 20,
+   "sodium": 850
+  },
+  "ranges": {
+   "calories": [
+    350,
+    480
+   ],
+   "sodium": [
+    700,
+    1000
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Butter Chicken",
+  "ingredients": [
+   "chicken",
+   "butter",
+   "cream",
+   "tomato",
+   "cashew paste",
+   "spices",
+   "sugar",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 525,
+   "protein": 30,
+   "carbohydrates": 15,
+   "sugar": 8,
+   "fiber": 2,
+   "fat": 32,
+   "sodium": 1000
+  },
+  "ranges": {
+   "calories": [
+    450,
+    600
+   ],
+   "sodium": [
+    800,
+    1200
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ },
+ {
+  "name": "Idli Sambar (3 idli)",
+  "ingredients": [
+   "idli rice",
+   "urad dal",
+   "toor dal",
+   "mixed vegetables",
+   "tamarind",
+   "sambar masala",
+   "asafoetida (hing)",
+   "mustard seeds",
+   "salt"
+  ],
+  "nutrition": {
+   "calories": 330,
+   "protein": 11,
+   "carbohydrates": 55,
+   "sugar": 4,
+   "fiber": 7,
+   "fat": 4,
+   "sodium": 850
+  },
+  "ranges": {
+   "calories": [
+    280,
+    380
+   ],
+   "sodium": [
+    700,
+    1000
+   ]
+  },
+  "note": "Estimated ingredients \u2014 restaurant recipes vary."
+ }
+]

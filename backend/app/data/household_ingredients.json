@@ -1,0 +1,87 @@
+{
+ "_about": "SEPARATE dictionary for household / personal-care products. Never mixed with food allergen rules.",
+ "entries": [
+  {
+   "name": "Parabens",
+   "level": "CAUTION",
+   "aliases": [
+    "methylparaben",
+    "propylparaben",
+    "butylparaben",
+    "ethylparaben",
+    "paraben"
+   ],
+   "reason": "Preservatives some people prefer to avoid; can irritate sensitive skin."
+  },
+  {
+   "name": "Sulfates",
+   "level": "CAUTION",
+   "aliases": [
+    "sodium lauryl sulfate",
+    "sodium laureth sulfate",
+    "sls",
+    "sles",
+    "ammonium lauryl sulfate"
+   ],
+   "reason": "Strong detergents that can dry or irritate skin."
+  },
+  {
+   "name": "Fragrance allergens",
+   "level": "CAUTION",
+   "aliases": [
+    "fragrance",
+    "parfum",
+    "limonene",
+    "linalool",
+    "citronellol",
+    "geraniol",
+    "eugenol",
+    "coumarin",
+    "cinnamal"
+   ],
+   "reason": "Common contact-allergy triggers."
+  },
+  {
+   "name": "Formaldehyde releasers",
+   "level": "HIGH",
+   "aliases": [
+    "dmdm hydantoin",
+    "quaternium-15",
+    "imidazolidinyl urea",
+    "diazolidinyl urea",
+    "bronopol"
+   ],
+   "reason": "Can release formaldehyde, a known sensitiser."
+  },
+  {
+   "name": "Isothiazolinones",
+   "level": "HIGH",
+   "aliases": [
+    "methylisothiazolinone",
+    "methylchloroisothiazolinone",
+    "mit",
+    "cmit"
+   ],
+   "reason": "Frequent cause of allergic contact dermatitis."
+  },
+  {
+   "name": "Phthalates",
+   "level": "CAUTION",
+   "aliases": [
+    "phthalate",
+    "diethyl phthalate",
+    "dep",
+    "dbp"
+   ],
+   "reason": "Plasticisers some consumers choose to avoid."
+  },
+  {
+   "name": "Triclosan",
+   "level": "CAUTION",
+   "aliases": [
+    "triclosan"
+   ],
+   "reason": "Antibacterial agent restricted in some markets."
+  }
+ ]
+}

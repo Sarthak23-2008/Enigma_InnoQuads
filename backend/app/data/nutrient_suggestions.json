@@ -1,0 +1,83 @@
+{
+ "_about": "Domain-specific suggestions shown on /trends when a metric needs attention. Food ideas only; not medical advice.",
+ "fiber_low": {
+  "title": "Fiber looks low",
+  "tip": "Try adding one of these to a meal most days.",
+  "foods": [
+   "Oats",
+   "Fruits such as apple, orange or guava",
+   "Vegetables like okra and spinach",
+   "Legumes: rajma, chole, moong sprouts"
+  ]
+ },
+ "protein_low": {
+  "title": "Protein looks low",
+  "tip": "Add a protein source to breakfast or lunch.",
+  "foods": [
+   "Lentils and dal",
+   "Paneer or curd",
+   "Eggs (if they fit your diet)",
+   "Beans, chana and soya chunks"
+  ]
+ },
+ "fruit_veg_low": {
+  "title": "Few fruits and vegetables logged",
+  "tip": "Aim to include produce in more meals.",
+  "foods": [
+   "A fruit with breakfast",
+   "Salad or sabzi at lunch",
+   "Vegetable-rich dal or sambar",
+   "Amla, orange or guava for vitamin C"
+  ]
+ },
+ "sodium_high": {
+  "title": "Sodium is running high",
+  "tip": "Swap a frequent salty item for a lower-sodium one.",
+  "foods": [
+   "Roasted makhana instead of chips or namkeen",
+   "Home-cooked dal with less added salt",
+   "Fresh vegetables instead of instant noodles",
+   "Skip papad or pickle on some days"
+  ]
+ },
+ "sugar_high": {
+  "title": "Added sugar is running high",
+  "tip": "Replace one sweet item a day.",
+  "foods": [
+   "Whole fruit instead of packaged juice",
+   "Unsweetened chai or green tea",
+   "Plain curd instead of sweetened desserts",
+   "Dark chocolate in small portions"
+  ]
+ },
+ "processed_high": {
+  "title": "Many processed foods",
+  "tip": "Cook or choose minimally processed options more often.",
+  "foods": [
+   "Poha, idli or upma instead of packaged snacks",
+   "Roasted chana",
+   "Fresh fruit",
+   "Home-cooked dal-rice"
+  ]
+ },
+ "diversity_low": {
+  "title": "Low food variety",
+  "tip": "Rotate grains, legumes and vegetables through the week.",
+  "foods": [
+   "Millets like jowar or ragi",
+   "A different dal each day",
+   "Seasonal vegetables",
+   "Different fruits across the week"
+  ]
+ },
+ "vitamin_c_low": {
+  "title": "Vitamin C sources",
+  "tip": "Foods commonly rich in vitamin C.",
+  "foods": [
+   "Oranges",
+   "Amla",
+   "Bell peppers",
+   "Guava"
+  ]
+ }
+}

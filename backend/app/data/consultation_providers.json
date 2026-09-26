@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Sample Listing: Clinical Dietitian",
+  "specialty": "Clinical nutrition, diabetes & kidney diets",
+  "rate": "\u20b9800 per session (sample)",
+  "contact": "dietitian.sample@example.com"
+ },
+ {
+  "name": "Sample Listing: Allergy Clinic",
+  "specialty": "Allergy & immunology",
+  "rate": "\u20b91,200 per consultation (sample)",
+  "contact": "allergy.sample@example.com"
+ },
+ {
+  "name": "Sample Listing: Sports Nutritionist",
+  "specialty": "Protein & performance nutrition",
+  "rate": "\u20b9700 per session (sample)",
+  "contact": "sportsnutrition.sample@example.com"
+ },
+ {
+  "name": "Sample Listing: Gastroenterology Clinic",
+  "specialty": "Food intolerance & digestive health",
+  "rate": "\u20b91,000 per consultation (sample)",
+  "contact": "gastro.sample@example.com"
+ },
+ {
+  "name": "Sample Listing: Community Nutrition Counsellor",
+  "specialty": "General healthy-eating guidance",
+  "rate": "\u20b9400 per session (sample)",
+  "contact": "community.sample@example.com"
+ }
+]

@@ -1,0 +1,2470 @@
+[
+ {
+  "standard_name": "Milk",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "condensed milk",
+   "dairy",
+   "dairy products",
+   "dairy solids",
+   "double toned milk",
+   "full cream milk",
+   "milk",
+   "milk derivatives",
+   "milk fat",
+   "milk powder",
+   "milk protein",
+   "milk solid",
+   "milk solids",
+   "skim milk",
+   "skim milk powder",
+   "skimmed milk",
+   "skimmed milk powder",
+   "sweetened condensed milk",
+   "toned milk",
+   "whole milk",
+   "whole milk powder"
+  ]
+ },
+ {
+  "standard_name": "Lactose-free Milk",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "lactose free milk",
+   "lactose-free milk"
+  ]
+ },
+ {
+  "standard_name": "Whey",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "whey",
+   "whey concentrate",
+   "whey powder",
+   "whey protein",
+   "whey protein concentrate",
+   "whey protein isolate",
+   "whey solids"
+  ]
+ },
+ {
+  "standard_name": "Casein",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "calcium caseinate",
+   "casein",
+   "caseinate",
+   "caseinates",
+   "sodium caseinate"
+  ]
+ },
+ {
+  "standard_name": "Lactose",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "lactose"
+  ]
+ },
+ {
+  "standard_name": "Butter",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "butter",
+   "butter oil",
+   "butterfat",
+   "salted butter",
+   "unsalted butter"
+  ]
+ },
+ {
+  "standard_name": "Ghee",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "clarified butter",
+   "cow ghee",
+   "desi ghee",
+   "ghee"
+  ]
+ },
+ {
+  "standard_name": "Cream",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "cream",
+   "dairy cream",
+   "fresh cream",
+   "malai"
+  ]
+ },
+ {
+  "standard_name": "Cheese",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived",
+   "processed_marker"
+  ],
+  "aliases": [
+   "cheddar",
+   "cheese",
+   "cheese powder",
+   "mozzarella",
+   "mozzarella cheese",
+   "parmesan",
+   "processed cheese"
+  ]
+ },
+ {
+  "standard_name": "Paneer",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "chenna",
+   "chhena",
+   "cottage cheese",
+   "paneer"
+  ]
+ },
+ {
+  "standard_name": "Curd",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "curd",
+   "dahi",
+   "hung curd",
+   "yoghurt",
+   "yogurt"
+  ]
+ },
+ {
+  "standard_name": "Buttermilk",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "buttermilk",
+   "chaas",
+   "chhaas"
+  ]
+ },
+ {
+  "standard_name": "Khoya",
+  "category": "dairy",
+  "allergen_group": "milk",
+  "intolerance_group": [
+   "lactose"
+  ],
+  "dietary_tags": [
+   "dairy",
+   "animal_derived"
+  ],
+  "aliases": [
+   "khoa",
+   "khoya",
+   "mawa"
+  ]
+ },
+ {
+  "standard_name": "Egg",
+  "category": "egg",
+  "allergen_group": "egg",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "egg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "albumen",
+   "albumin",
+   "dried egg",
+   "egg",
+   "egg powder",
+   "egg white",
+   "egg whites",
+   "egg yolk",
+   "egg yolks",
+   "eggs",
+   "ovalbumin",
+   "whole egg",
+   "whole egg powder"
+  ]
+ },
+ {
+  "standard_name": "Mayonnaise",
+  "category": "condiment",
+  "allergen_group": "egg",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "egg",
+   "animal_derived",
+   "processed_marker"
+  ],
+  "aliases": [
+   "mayo",
+   "mayonnaise"
+  ]
+ },
+ {
+  "standard_name": "Peanut",
+  "category": "legume",
+  "allergen_group": "peanut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "arachis",
+   "arachis hypogaea",
+   "arachis oil",
+   "ground nut",
+   "groundnut",
+   "groundnuts",
+   "monkey nut",
+   "monkey nuts",
+   "moongphali",
+   "mungfali",
+   "peanut",
+   "peanut butter",
+   "peanut flour",
+   "peanut oil",
+   "peanuts",
+   "roasted peanuts"
+  ]
+ },
+ {
+  "standard_name": "Almond",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "almond",
+   "almond flour",
+   "almond meal",
+   "almond milk",
+   "almonds",
+   "badam"
+  ]
+ },
+ {
+  "standard_name": "Cashew",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "cashew",
+   "cashew nut",
+   "cashew nuts",
+   "cashew paste",
+   "cashews",
+   "kaju"
+  ]
+ },
+ {
+  "standard_name": "Walnut",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "akhrot",
+   "walnut",
+   "walnuts"
+  ]
+ },
+ {
+  "standard_name": "Pistachio",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "pista",
+   "pistachio",
+   "pistachios"
+  ]
+ },
+ {
+  "standard_name": "Hazelnut",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "filbert",
+   "hazelnut",
+   "hazelnuts"
+  ]
+ },
+ {
+  "standard_name": "Pecan",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "pecan",
+   "pecans"
+  ]
+ },
+ {
+  "standard_name": "Macadamia",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "macadamia",
+   "macadamia nut"
+  ]
+ },
+ {
+  "standard_name": "Brazil Nut",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "brazil nut",
+   "brazil nuts"
+  ]
+ },
+ {
+  "standard_name": "Pine Nut",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "chilgoza",
+   "pine nut",
+   "pine nuts"
+  ]
+ },
+ {
+  "standard_name": "Tree Nuts",
+  "category": "tree nut",
+  "allergen_group": "tree_nut",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "mixed nuts",
+   "nut",
+   "nuts",
+   "tree nut",
+   "tree nuts"
+  ]
+ },
+ {
+  "standard_name": "Soy",
+  "category": "legume",
+  "allergen_group": "soy",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "legume"
+  ],
+  "aliases": [
+   "hydrolysed soy protein",
+   "soy",
+   "soy chunks",
+   "soy flour",
+   "soy lecithin",
+   "soy milk",
+   "soy protein",
+   "soy protein isolate",
+   "soya",
+   "soya bean",
+   "soya beans",
+   "soya chunks",
+   "soya flour",
+   "soya lecithin",
+   "soya milk",
+   "soya protein",
+   "soybean",
+   "soybean oil",
+   "soybeans",
+   "textured vegetable protein"
+  ]
+ },
+ {
+  "standard_name": "Tofu",
+  "category": "legume",
+  "allergen_group": "soy",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "legume"
+  ],
+  "aliases": [
+   "bean curd",
+   "tofu"
+  ]
+ },
+ {
+  "standard_name": "Soy Sauce",
+  "category": "condiment",
+  "allergen_group": "soy,wheat",
+  "intolerance_group": [
+   "gluten"
+  ],
+  "dietary_tags": [
+   "gluten",
+   "high_sodium",
+   "processed_marker"
+  ],
+  "aliases": [
+   "shoyu",
+   "soy sauce",
+   "soya sauce"
+  ]
+ },
+ {
+  "standard_name": "Lecithin",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "possible_soy",
+   "additive"
+  ],
+  "aliases": [
+   "e322",
+   "emulsifier (322)",
+   "emulsifier 322",
+   "ins 322",
+   "lecithin"
+  ]
+ },
+ {
+  "standard_name": "Wheat",
+  "category": "grain",
+  "allergen_group": "wheat",
+  "intolerance_group": [
+   "gluten"
+  ],
+  "dietary_tags": [
+   "gluten",
+   "whole_grain"
+  ],
+  "aliases": [
+   "atta",
+   "broken wheat",
+   "bulgur",
+   "couscous",
+   "dalia",
+   "durum wheat",
+   "wheat",
+   "wheat bran",
+   "wheat fiber",
+   "wheat fibre",
+   "wheat flour",
+   "wheat semolina",
+   "wheat starch",
+   "whole wheat",
+   "whole wheat flour",
+   "whole wheat flour (atta)"
+  ]
+ },
+ {
+  "standard_name": "Refined Wheat Flour",
+  "category": "grain",
+  "allergen_group": "wheat",
+  "intolerance_group": [
+   "gluten"
+  ],
+  "dietary_tags": [
+   "gluten",
+   "refined_flour"
+  ],
+  "aliases": [
+   "all purpose flour",
+   "all-purpose flour",
+   "enriched flour",
+   "maida",
+   "plain flour",
+   "refined flour",
+   "refined wheat flour",
+   "white flour"
+  ]
+ },
+ {
+  "standard_name": "Semolina",
+  "category": "grain",
+  "allergen_group": "wheat",
+  "intolerance_group": [
+   "gluten"
+  ],
+  "dietary_tags": [
+   "gluten",
+   "refined_flour"
+  ],
+  "aliases": [
+   "rava",
+   "rawa",
+   "semolina",
+   "sooji",
+   "suji"
+  ]
+ },
+ {
+  "standard_name": "Wheat Gluten",
+  "category": "grain",
+  "allergen_group": "wheat",
+  "intolerance_group": [
+   "gluten"
+  ],
+  "dietary_tags": [
+   "gluten"
+  ],
+  "aliases": [
+   "gluten",
+   "seitan",
+   "vital wheat gluten",
+   "wheat gluten"
+  ]
+ },
+ {
+  "standard_name": "Barley",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [
+   "gluten"
+  ],
+  "dietary_tags": [
+   "gluten"
+  ],
+  "aliases": [
+   "barley",
+   "barley flour",
+   "barley malt",
+   "malt",
+   "malt extract",
+   "malted",
+   "malted barley"
+  ]
+ },
+ {
+  "standard_name": "Rye",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [
+   "gluten"
+  ],
+  "dietary_tags": [
+   "gluten"
+  ],
+  "aliases": [
+   "rye",
+   "rye flour"
+  ]
+ },
+ {
+  "standard_name": "Oats",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "may_contain_gluten",
+   "whole_grain"
+  ],
+  "aliases": [
+   "oat",
+   "oat bran",
+   "oat drink",
+   "oat flour",
+   "oat milk",
+   "oatmeal",
+   "oats",
+   "oats flakes",
+   "rolled oats"
+  ]
+ },
+ {
+  "standard_name": "Bread Crumbs",
+  "category": "grain",
+  "allergen_group": "wheat",
+  "intolerance_group": [
+   "gluten"
+  ],
+  "dietary_tags": [
+   "gluten",
+   "refined_flour"
+  ],
+  "aliases": [
+   "bread crumbs",
+   "breadcrumbs",
+   "rusk crumbs"
+  ]
+ },
+ {
+  "standard_name": "Asafoetida (Hing)",
+  "category": "spice",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "may_contain_gluten",
+   "spice"
+  ],
+  "aliases": [
+   "asafoetida",
+   "asafoetida (hing)",
+   "compounded asafoetida",
+   "hing"
+  ]
+ },
+ {
+  "standard_name": "Fish",
+  "category": "seafood",
+  "allergen_group": "fish",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fish",
+   "non_veg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "anchovies",
+   "anchovy",
+   "bangda",
+   "cod",
+   "fish",
+   "fish extract",
+   "fish fillet",
+   "fish oil",
+   "fish sauce",
+   "mackerel",
+   "pomfret",
+   "rohu",
+   "salmon",
+   "sardine",
+   "sardines",
+   "surmai",
+   "tuna"
+  ]
+ },
+ {
+  "standard_name": "Shellfish",
+  "category": "seafood",
+  "allergen_group": "shellfish",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "seafood",
+   "non_veg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "crab",
+   "crayfish",
+   "crustacean",
+   "crustaceans",
+   "lobster",
+   "prawn",
+   "prawns",
+   "shellfish",
+   "shrimp",
+   "shrimps"
+  ]
+ },
+ {
+  "standard_name": "Molluscs",
+  "category": "seafood",
+  "allergen_group": "mollusc",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "seafood",
+   "non_veg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "clam",
+   "clams",
+   "mollusc",
+   "molluscs",
+   "mussel",
+   "mussels",
+   "octopus",
+   "oyster",
+   "oysters",
+   "squid"
+  ]
+ },
+ {
+  "standard_name": "Sesame",
+  "category": "seed",
+  "allergen_group": "sesame",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "gingelly",
+   "gingelly oil",
+   "sesame",
+   "sesame oil",
+   "sesame seed",
+   "sesame seeds",
+   "tahini",
+   "til"
+  ]
+ },
+ {
+  "standard_name": "Mustard",
+  "category": "spice",
+  "allergen_group": "mustard",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "spice"
+  ],
+  "aliases": [
+   "mustard",
+   "mustard oil",
+   "mustard powder",
+   "mustard sauce",
+   "mustard seed",
+   "mustard seeds",
+   "rai",
+   "sarson"
+  ]
+ },
+ {
+  "standard_name": "Celery",
+  "category": "vegetable",
+  "allergen_group": "celery",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "celeriac",
+   "celery"
+  ]
+ },
+ {
+  "standard_name": "Lupin",
+  "category": "legume",
+  "allergen_group": "lupin",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "legume"
+  ],
+  "aliases": [
+   "lupin",
+   "lupin flour",
+   "lupine"
+  ]
+ },
+ {
+  "standard_name": "Sulphites",
+  "category": "additive",
+  "allergen_group": "sulphite",
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive"
+  ],
+  "aliases": [
+   "e220",
+   "ins 220",
+   "ins 223",
+   "ins 224",
+   "potassium metabisulphite",
+   "sodium metabisulfite",
+   "sodium metabisulphite",
+   "sulfite",
+   "sulfites",
+   "sulfur dioxide",
+   "sulphite",
+   "sulphites",
+   "sulphur dioxide"
+  ]
+ },
+ {
+  "standard_name": "Sunflower Seed",
+  "category": "seed",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "roasted sunflower seeds",
+   "sunflower",
+   "sunflower lecithin",
+   "sunflower oil",
+   "sunflower seed",
+   "sunflower seed butter",
+   "sunflower seeds"
+  ]
+ },
+ {
+  "standard_name": "Pumpkin Seed",
+  "category": "seed",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "pepitas",
+   "pumpkin seed",
+   "pumpkin seed butter",
+   "pumpkin seeds",
+   "roasted pumpkin seeds"
+  ]
+ },
+ {
+  "standard_name": "Makhana",
+  "category": "seed",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "nut_or_seed"
+  ],
+  "aliases": [
+   "fox nut",
+   "fox nuts",
+   "fox nuts (makhana)",
+   "lotus seed",
+   "lotus seeds",
+   "makhana"
+  ]
+ },
+ {
+  "standard_name": "Coconut",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "coconut",
+   "coconut cream",
+   "coconut milk",
+   "coconut oil",
+   "coconut water",
+   "desiccated coconut",
+   "grated coconut"
+  ]
+ },
+ {
+  "standard_name": "Kiwi",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "kiwi",
+   "kiwifruit"
+  ]
+ },
+ {
+  "standard_name": "Chicken",
+  "category": "meat",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "meat",
+   "non_veg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "chicken",
+   "chicken breast",
+   "chicken extract",
+   "chicken fat",
+   "chicken meat",
+   "chicken powder",
+   "chicken stock"
+  ]
+ },
+ {
+  "standard_name": "Mutton",
+  "category": "meat",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "meat",
+   "non_veg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "goat",
+   "goat meat",
+   "lamb",
+   "mutton"
+  ]
+ },
+ {
+  "standard_name": "Beef",
+  "category": "meat",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "meat",
+   "non_veg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "beef",
+   "beef extract",
+   "beef fat",
+   "tallow"
+  ]
+ },
+ {
+  "standard_name": "Pork",
+  "category": "meat",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "meat",
+   "non_veg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "bacon",
+   "ham",
+   "lard",
+   "pork",
+   "pork fat"
+  ]
+ },
+ {
+  "standard_name": "Gelatin",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "non_veg",
+   "animal_derived",
+   "additive"
+  ],
+  "aliases": [
+   "e441",
+   "gelatin",
+   "gelatine",
+   "ins 441"
+  ]
+ },
+ {
+  "standard_name": "Animal Rennet",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "non_veg",
+   "animal_derived"
+  ],
+  "aliases": [
+   "animal rennet",
+   "rennet"
+  ]
+ },
+ {
+  "standard_name": "Carmine",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "non_veg",
+   "animal_derived",
+   "additive"
+  ],
+  "aliases": [
+   "carmine",
+   "cochineal",
+   "e120",
+   "ins 120"
+  ]
+ },
+ {
+  "standard_name": "Honey",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [
+   "fructose"
+  ],
+  "dietary_tags": [
+   "honey",
+   "animal_derived",
+   "added_sugar"
+  ],
+  "aliases": [
+   "honey"
+  ]
+ },
+ {
+  "standard_name": "Sugar",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "added_sugar"
+  ],
+  "aliases": [
+   "brown sugar",
+   "cane sugar",
+   "castor sugar",
+   "icing sugar",
+   "khand",
+   "powdered sugar",
+   "raw sugar",
+   "refined sugar",
+   "sucrose",
+   "sugar",
+   "sugar syrup",
+   "white sugar"
+  ]
+ },
+ {
+  "standard_name": "Jaggery",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "added_sugar"
+  ],
+  "aliases": [
+   "gur",
+   "jaggery",
+   "jaggery powder"
+  ]
+ },
+ {
+  "standard_name": "Glucose",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "added_sugar",
+   "hidden_sugar"
+  ],
+  "aliases": [
+   "corn syrup solids",
+   "dextrose",
+   "glucose",
+   "glucose solids",
+   "glucose syrup",
+   "liquid glucose"
+  ]
+ },
+ {
+  "standard_name": "Invert Sugar",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [
+   "fructose"
+  ],
+  "dietary_tags": [
+   "added_sugar",
+   "hidden_sugar"
+  ],
+  "aliases": [
+   "invert sugar",
+   "invert sugar syrup",
+   "invert syrup",
+   "liquid invert sugar"
+  ]
+ },
+ {
+  "standard_name": "Corn Syrup",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [
+   "fructose"
+  ],
+  "dietary_tags": [
+   "added_sugar",
+   "hidden_sugar"
+  ],
+  "aliases": [
+   "corn syrup",
+   "fructose syrup",
+   "fructose-glucose syrup",
+   "glucose-fructose syrup",
+   "hfcs",
+   "high fructose corn syrup"
+  ]
+ },
+ {
+  "standard_name": "Maltodextrin",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "hidden_sugar",
+   "processed_marker"
+  ],
+  "aliases": [
+   "ins 1400",
+   "malto dextrin",
+   "maltodextrin"
+  ]
+ },
+ {
+  "standard_name": "Fructose",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [
+   "fructose"
+  ],
+  "dietary_tags": [
+   "added_sugar",
+   "hidden_sugar"
+  ],
+  "aliases": [
+   "crystalline fructose",
+   "fructose",
+   "fruit sugar"
+  ]
+ },
+ {
+  "standard_name": "Agave Syrup",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [
+   "fructose"
+  ],
+  "dietary_tags": [
+   "added_sugar",
+   "hidden_sugar"
+  ],
+  "aliases": [
+   "agave",
+   "agave nectar",
+   "agave syrup"
+  ]
+ },
+ {
+  "standard_name": "Fruit Juice Concentrate",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [
+   "fructose"
+  ],
+  "dietary_tags": [
+   "added_sugar",
+   "hidden_sugar"
+  ],
+  "aliases": [
+   "apple juice concentrate",
+   "fruit concentrate",
+   "fruit juice concentrate",
+   "grape juice concentrate",
+   "mixed fruit concentrate"
+  ]
+ },
+ {
+  "standard_name": "Sorbitol",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [
+   "fructose"
+  ],
+  "dietary_tags": [
+   "sweetener",
+   "additive"
+  ],
+  "aliases": [
+   "e420",
+   "ins 420",
+   "sorbitol"
+  ]
+ },
+ {
+  "standard_name": "Artificial Sweetener",
+  "category": "sweetener",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "sweetener",
+   "additive"
+  ],
+  "aliases": [
+   "acesulfame",
+   "acesulfame potassium",
+   "artificial sweetener",
+   "aspartame",
+   "ins 950",
+   "ins 951",
+   "ins 955",
+   "saccharin",
+   "stevia",
+   "steviol glycosides",
+   "sucralose"
+  ]
+ },
+ {
+  "standard_name": "Salt",
+  "category": "mineral",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "high_sodium"
+  ],
+  "aliases": [
+   "black salt",
+   "common salt",
+   "edible common salt",
+   "iodised salt",
+   "iodized salt",
+   "rock salt",
+   "salt",
+   "sea salt",
+   "sendha namak",
+   "table salt"
+  ]
+ },
+ {
+  "standard_name": "Monosodium Glutamate",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "high_sodium",
+   "additive"
+  ],
+  "aliases": [
+   "e621",
+   "flavour enhancer (621)",
+   "flavour enhancer 621",
+   "ins 621",
+   "monosodium glutamate",
+   "msg"
+  ]
+ },
+ {
+  "standard_name": "Flavour Enhancer",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "high_sodium",
+   "additive"
+  ],
+  "aliases": [
+   "627",
+   "631",
+   "disodium guanylate",
+   "disodium inosinate",
+   "flavor enhancer",
+   "flavour enhancer",
+   "flavour enhancer (627, 631)",
+   "ins 627",
+   "ins 631"
+  ]
+ },
+ {
+  "standard_name": "Sodium Bicarbonate",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "sodium_additive",
+   "additive"
+  ],
+  "aliases": [
+   "500(ii)",
+   "baking soda",
+   "e500",
+   "ins 500",
+   "ins 500(ii)",
+   "khar",
+   "sodium bicarbonate",
+   "sodium hydrogen carbonate"
+  ]
+ },
+ {
+  "standard_name": "Sodium Benzoate",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "sodium_additive",
+   "additive",
+   "preservative"
+  ],
+  "aliases": [
+   "211",
+   "e211",
+   "ins 211",
+   "preservative (211)",
+   "sodium benzoate"
+  ]
+ },
+ {
+  "standard_name": "Hydrolysed Vegetable Protein",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "high_sodium",
+   "additive"
+  ],
+  "aliases": [
+   "hvp",
+   "hydrolysed vegetable protein",
+   "hydrolyzed vegetable protein"
+  ]
+ },
+ {
+  "standard_name": "Yeast Extract",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "high_sodium",
+   "additive"
+  ],
+  "aliases": [
+   "autolysed yeast",
+   "yeast extract"
+  ]
+ },
+ {
+  "standard_name": "Palm Oil",
+  "category": "fat",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "palm_oil",
+   "processed_marker"
+  ],
+  "aliases": [
+   "edible vegetable oil (palm)",
+   "edible vegetable oil (palmolein)",
+   "palm fat",
+   "palm kernel oil",
+   "palm oil",
+   "palmolein",
+   "palmolein oil",
+   "refined palmolein"
+  ]
+ },
+ {
+  "standard_name": "Vegetable Oil",
+  "category": "fat",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "canola oil",
+   "cooking oil",
+   "cottonseed oil",
+   "edible vegetable oil",
+   "groundnut-free oil",
+   "olive oil",
+   "refined oil",
+   "refined vegetable oil",
+   "rice bran oil",
+   "vegetable oil"
+  ]
+ },
+ {
+  "standard_name": "Hydrogenated Fat",
+  "category": "fat",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "processed_marker",
+   "trans_fat_risk"
+  ],
+  "aliases": [
+   "bakery shortening",
+   "hydrogenated fat",
+   "hydrogenated vegetable fat",
+   "hydrogenated vegetable oil",
+   "interesterified fat",
+   "interesterified vegetable fat",
+   "partially hydrogenated oil",
+   "shortening",
+   "vanaspati"
+  ]
+ },
+ {
+  "standard_name": "Cocoa",
+  "category": "cocoa",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "cacao",
+   "chocolate",
+   "cocoa",
+   "cocoa butter",
+   "cocoa liquor",
+   "cocoa mass",
+   "cocoa powder",
+   "cocoa solids",
+   "dark chocolate"
+  ]
+ },
+ {
+  "standard_name": "Tea",
+  "category": "beverage",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "black tea",
+   "green tea",
+   "green tea leaves",
+   "tea",
+   "tea extract",
+   "tea leaves"
+  ]
+ },
+ {
+  "standard_name": "Coffee",
+  "category": "beverage",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "chicory",
+   "coffee",
+   "coffee powder",
+   "instant coffee"
+  ]
+ },
+ {
+  "standard_name": "Caffeine",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive"
+  ],
+  "aliases": [
+   "caffeine"
+  ]
+ },
+ {
+  "standard_name": "Carbonated Water",
+  "category": "beverage",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "carbonated water",
+   "soda water"
+  ]
+ },
+ {
+  "standard_name": "Water",
+  "category": "other",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "drinking water",
+   "purified water",
+   "water"
+  ]
+ },
+ {
+  "standard_name": "Rice",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "basmati",
+   "basmati rice",
+   "brown rice",
+   "idli rice",
+   "parboiled rice",
+   "rice",
+   "rice bran",
+   "rice flakes",
+   "rice flour",
+   "rice milk",
+   "steamed rice",
+   "white rice"
+  ]
+ },
+ {
+  "standard_name": "Flattened Rice (Poha)",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "beaten rice",
+   "chiwda",
+   "flattened rice",
+   "flattened rice (poha)",
+   "poha"
+  ]
+ },
+ {
+  "standard_name": "Puffed Rice",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "kurmura",
+   "murmura",
+   "puffed rice"
+  ]
+ },
+ {
+  "standard_name": "Corn",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "corn",
+   "corn flour",
+   "corn grits",
+   "corn starch",
+   "cornflour",
+   "cornstarch",
+   "maize",
+   "maize flour",
+   "maize starch",
+   "makki",
+   "sweet corn"
+  ]
+ },
+ {
+  "standard_name": "Millet",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "whole_grain"
+  ],
+  "aliases": [
+   "bajra",
+   "finger millet",
+   "foxtail millet",
+   "jowar",
+   "jowar flour",
+   "kodo millet",
+   "millet",
+   "millets",
+   "pearl millet",
+   "ragi",
+   "ragi flour",
+   "sorghum"
+  ]
+ },
+ {
+  "standard_name": "Tapioca",
+  "category": "grain",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "cassava",
+   "sabudana",
+   "tapioca",
+   "tapioca starch"
+  ]
+ },
+ {
+  "standard_name": "Modified Starch",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive",
+   "processed_marker"
+  ],
+  "aliases": [
+   "edible starch",
+   "ins 1412",
+   "ins 1422",
+   "ins 1442",
+   "modified maize starch",
+   "modified starch",
+   "thickener (1422)"
+  ]
+ },
+ {
+  "standard_name": "Chickpea",
+  "category": "legume",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "legume"
+  ],
+  "aliases": [
+   "bengal gram",
+   "besan",
+   "chana",
+   "chana dal",
+   "chickpea",
+   "chickpeas",
+   "gram flour",
+   "gram flour (besan)",
+   "kabuli chana",
+   "roasted chickpea",
+   "roasted chickpea (chana)",
+   "roasted gram"
+  ]
+ },
+ {
+  "standard_name": "Lentils",
+  "category": "legume",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "legume"
+  ],
+  "aliases": [
+   "arhar dal",
+   "black gram",
+   "dal",
+   "green gram",
+   "lentil",
+   "lentils",
+   "masoor",
+   "masoor dal",
+   "moong",
+   "moong dal",
+   "moong sprouts",
+   "split pigeon peas",
+   "sprouts",
+   "toor dal",
+   "tuvar dal",
+   "urad",
+   "urad dal",
+   "urad dal flour"
+  ]
+ },
+ {
+  "standard_name": "Kidney Beans",
+  "category": "legume",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "legume"
+  ],
+  "aliases": [
+   "kidney bean",
+   "kidney beans",
+   "kidney beans (rajma)",
+   "rajma"
+  ]
+ },
+ {
+  "standard_name": "Peas & Beans",
+  "category": "legume",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "legume",
+   "fruit_veg"
+  ],
+  "aliases": [
+   "beans",
+   "black beans",
+   "black-eyed peas",
+   "cowpea",
+   "french beans",
+   "green peas",
+   "lobia",
+   "matar",
+   "peas",
+   "peas & beans"
+  ]
+ },
+ {
+  "standard_name": "Onion",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg",
+   "onion_garlic"
+  ],
+  "aliases": [
+   "dehydrated onion",
+   "onion",
+   "onion powder",
+   "onions",
+   "pyaz",
+   "shallot",
+   "spring onion"
+  ]
+ },
+ {
+  "standard_name": "Garlic",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg",
+   "onion_garlic"
+  ],
+  "aliases": [
+   "dehydrated garlic",
+   "garlic",
+   "garlic paste",
+   "garlic powder",
+   "lahsun"
+  ]
+ },
+ {
+  "standard_name": "Ginger",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "root_vegetable"
+  ],
+  "aliases": [
+   "adrak",
+   "dry ginger",
+   "ginger",
+   "ginger paste",
+   "ginger powder",
+   "ginger-garlic paste"
+  ]
+ },
+ {
+  "standard_name": "Potato",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "root_vegetable",
+   "fruit_veg"
+  ],
+  "aliases": [
+   "aloo",
+   "dehydrated potato",
+   "potato",
+   "potato flakes",
+   "potato patty",
+   "potato starch",
+   "potatoes",
+   "sweet potato"
+  ]
+ },
+ {
+  "standard_name": "Carrot",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "root_vegetable",
+   "fruit_veg"
+  ],
+  "aliases": [
+   "carrot",
+   "carrots",
+   "gajar"
+  ]
+ },
+ {
+  "standard_name": "Beetroot",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "root_vegetable",
+   "fruit_veg"
+  ],
+  "aliases": [
+   "beet",
+   "beetroot",
+   "chukandar"
+  ]
+ },
+ {
+  "standard_name": "Radish",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "root_vegetable",
+   "fruit_veg"
+  ],
+  "aliases": [
+   "mooli",
+   "radish"
+  ]
+ },
+ {
+  "standard_name": "Tomato",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "tomato",
+   "tomato ketchup",
+   "tomato paste",
+   "tomato powder",
+   "tomato puree",
+   "tomato sauce",
+   "tomatoes"
+  ]
+ },
+ {
+  "standard_name": "Spinach",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "palak",
+   "spinach",
+   "spinach (palak)"
+  ]
+ },
+ {
+  "standard_name": "Leafy Greens & Herbs",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "coriander leaves",
+   "curry leaves",
+   "dill",
+   "fresh coriander",
+   "leafy greens & herbs",
+   "lettuce",
+   "methi leaves",
+   "mint",
+   "pudina"
+  ]
+ },
+ {
+  "standard_name": "Mixed Vegetables",
+  "category": "vegetable",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "baingan",
+   "bell pepper",
+   "bell peppers",
+   "bhindi",
+   "bottle gourd",
+   "bottle gourd (lauki)",
+   "brinjal",
+   "broccoli",
+   "cabbage",
+   "capsicum",
+   "cauliflower",
+   "cucumber",
+   "eggplant",
+   "gobi",
+   "green chilli",
+   "green chillies",
+   "lauki",
+   "mixed vegetables",
+   "mushroom",
+   "mushrooms",
+   "okra",
+   "okra (bhindi)",
+   "pumpkin",
+   "vegetables",
+   "zucchini"
+  ]
+ },
+ {
+  "standard_name": "Apple",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "apple",
+   "apple pieces",
+   "apple puree",
+   "apples"
+  ]
+ },
+ {
+  "standard_name": "Banana",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "banana",
+   "banana puree",
+   "bananas"
+  ]
+ },
+ {
+  "standard_name": "Mango",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "mango",
+   "mango pulp",
+   "mangoes"
+  ]
+ },
+ {
+  "standard_name": "Orange",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "orange",
+   "orange juice",
+   "orange pulp",
+   "oranges"
+  ]
+ },
+ {
+  "standard_name": "Citrus",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "citrus",
+   "lemon",
+   "lemon juice",
+   "lemons",
+   "lime",
+   "lime juice",
+   "nimbu"
+  ]
+ },
+ {
+  "standard_name": "Amla",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "amla",
+   "indian gooseberry"
+  ]
+ },
+ {
+  "standard_name": "Tamarind",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "imli",
+   "tamarind",
+   "tamarind paste"
+  ]
+ },
+ {
+  "standard_name": "Dried Fruit",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "anjeer",
+   "dates",
+   "dried fruit",
+   "figs",
+   "khajur",
+   "kishmish",
+   "raisin",
+   "raisins"
+  ]
+ },
+ {
+  "standard_name": "Mixed Fruit",
+  "category": "fruit",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "fruit_veg"
+  ],
+  "aliases": [
+   "berries",
+   "fruit",
+   "fruit pieces",
+   "fruit pulp",
+   "fruits",
+   "grapes",
+   "guava",
+   "mixed fruit",
+   "papaya",
+   "pineapple",
+   "pomegranate",
+   "strawberries",
+   "strawberry",
+   "watermelon"
+  ]
+ },
+ {
+  "standard_name": "Spices",
+  "category": "spice",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "spice"
+  ],
+  "aliases": [
+   "ajwain",
+   "bay leaf",
+   "biryani masala",
+   "black pepper",
+   "cardamom",
+   "chaat masala",
+   "chili",
+   "chilli",
+   "chilli powder",
+   "chole masala",
+   "cinnamon",
+   "clove",
+   "cloves",
+   "condiments",
+   "coriander",
+   "coriander powder",
+   "cumin",
+   "dhania",
+   "elaichi",
+   "fennel",
+   "fenugreek",
+   "garam masala",
+   "haldi",
+   "herbs",
+   "jeera",
+   "kasuri methi",
+   "kesar",
+   "mace",
+   "methi",
+   "mixed spices",
+   "nutmeg",
+   "oregano",
+   "paprika",
+   "pepper",
+   "red chilli",
+   "red chilli powder",
+   "rose water",
+   "saffron",
+   "sambar masala",
+   "saunf",
+   "spice",
+   "spices",
+   "star anise",
+   "tastemaker",
+   "turmeric",
+   "vanilla",
+   "vanillin"
+  ]
+ },
+ {
+  "standard_name": "Emulsifier",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive",
+   "processed_marker",
+   "possible_animal"
+  ],
+  "aliases": [
+   "e471",
+   "emulsifier",
+   "emulsifiers",
+   "emulsifying salts",
+   "humectant (451(i))",
+   "ins 339",
+   "ins 442",
+   "ins 451(i)",
+   "ins 452",
+   "ins 471",
+   "ins 472e",
+   "ins 476",
+   "mono and diglycerides",
+   "mono- and diglycerides of fatty acids"
+  ]
+ },
+ {
+  "standard_name": "Stabilizer & Thickener",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive",
+   "processed_marker"
+  ],
+  "aliases": [
+   "carrageenan",
+   "cmc",
+   "guar gum",
+   "ins 407",
+   "ins 412",
+   "ins 415",
+   "ins 440",
+   "ins 466",
+   "ins 508",
+   "pectin",
+   "potassium chloride",
+   "stabiliser",
+   "stabilizer",
+   "stabilizer & thickener",
+   "stabilizers",
+   "thickener",
+   "thickeners",
+   "xanthan gum"
+  ]
+ },
+ {
+  "standard_name": "Preservative",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive",
+   "processed_marker",
+   "preservative"
+  ],
+  "aliases": [
+   "calcium propionate",
+   "class ii preservative",
+   "ins 200",
+   "ins 202",
+   "ins 281",
+   "ins 282",
+   "potassium sorbate",
+   "preservative",
+   "preservatives",
+   "sorbic acid"
+  ]
+ },
+ {
+  "standard_name": "Colour",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive",
+   "processed_marker"
+  ],
+  "aliases": [
+   "artificial color",
+   "artificial colour",
+   "caramel color",
+   "caramel colour",
+   "color",
+   "colour",
+   "colours",
+   "ins 102",
+   "ins 110",
+   "ins 150a",
+   "ins 150c",
+   "ins 150d",
+   "permitted natural colour",
+   "permitted synthetic food colour",
+   "sunset yellow",
+   "synthetic food colour",
+   "tartrazine"
+  ]
+ },
+ {
+  "standard_name": "Flavouring",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive",
+   "processed_marker"
+  ],
+  "aliases": [
+   "added flavour",
+   "added flavours",
+   "artificial flavour",
+   "artificial flavouring substances",
+   "flavor",
+   "flavoring",
+   "flavors",
+   "flavour",
+   "flavouring",
+   "flavours",
+   "natural and nature identical flavouring substances",
+   "natural flavour",
+   "natural flavours",
+   "nature identical flavouring substances"
+  ]
+ },
+ {
+  "standard_name": "Acidity Regulator",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive"
+  ],
+  "aliases": [
+   "acetic acid",
+   "acidity regulator",
+   "acidity regulators",
+   "citric acid",
+   "ins 260",
+   "ins 270",
+   "ins 296",
+   "ins 330",
+   "ins 331",
+   "ins 338",
+   "ins 500(i)",
+   "ins 501(i)",
+   "lactic acid",
+   "malic acid",
+   "phosphoric acid"
+  ]
+ },
+ {
+  "standard_name": "Raising Agent",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive"
+  ],
+  "aliases": [
+   "503(ii)",
+   "ammonium bicarbonate",
+   "baking powder",
+   "ins 341",
+   "ins 503(ii)",
+   "leavening",
+   "leavening agent",
+   "raising agent",
+   "raising agents"
+  ]
+ },
+ {
+  "standard_name": "Antioxidant",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive",
+   "processed_marker"
+  ],
+  "aliases": [
+   "antioxidant",
+   "antioxidants",
+   "ascorbic acid",
+   "bha",
+   "bht",
+   "ins 300",
+   "ins 307",
+   "ins 319",
+   "ins 320",
+   "ins 321",
+   "tbhq",
+   "tocopherol"
+  ]
+ },
+ {
+  "standard_name": "Yeast",
+  "category": "other",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "active dry yeast",
+   "baker's yeast",
+   "instant yeast",
+   "yeast"
+  ]
+ },
+ {
+  "standard_name": "Vinegar",
+  "category": "condiment",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "synthetic vinegar",
+   "vinegar",
+   "white vinegar"
+  ]
+ },
+ {
+  "standard_name": "Vitamins & Minerals",
+  "category": "other",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "calcium carbonate",
+   "folic acid",
+   "iron",
+   "minerals",
+   "reduced iron",
+   "vitamin c",
+   "vitamin d",
+   "vitamins",
+   "vitamins & minerals",
+   "zinc oxide"
+  ]
+ },
+ {
+  "standard_name": "Bacterial Culture",
+  "category": "other",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [],
+  "aliases": [
+   "active cultures",
+   "bacterial culture",
+   "culture",
+   "curd culture",
+   "enzyme",
+   "lactase enzyme",
+   "lactic culture",
+   "live cultures",
+   "probiotic culture"
+  ]
+ },
+ {
+  "standard_name": "Lactic Culture Coagulant",
+  "category": "additive",
+  "allergen_group": null,
+  "intolerance_group": [],
+  "dietary_tags": [
+   "additive"
+  ],
+  "aliases": [
+   "calcium sulphate",
+   "coagulant",
+   "coagulant (calcium sulphate)",
+   "lactic culture coagulant",
+   "magnesium chloride"
+  ]
+ }
+]

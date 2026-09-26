@@ -1,0 +1,307 @@
+{
+ "_about": "Smart Alternatives. Keys are conflict groups produced by the Risk Engine. Every alternative is re-screened against the user's profile before it is shown.",
+ "by_food_keyword": {
+  "peanut butter": [
+   [
+    "Sunflower Seed Butter",
+    "Similar spread made from sunflower seeds instead of peanuts."
+   ],
+   [
+    "Pumpkin Seed Butter",
+    "Seed-based spread with no peanut or tree nut."
+   ]
+  ],
+  "biscuit": [
+   [
+    "Roasted Makhana (Fox Nuts)",
+    "Crunchy snack without wheat, milk or added sugar."
+   ],
+   [
+    "Roasted Chana (Chickpea)",
+    "High-fiber, high-protein crunchy snack."
+   ]
+  ],
+  "noodles": [
+   [
+    "Rice Noodles",
+    "Wheat-free noodles; season lightly to keep sodium down."
+   ],
+   [
+    "Vegetable Salad",
+    "Minimally processed and low in sodium."
+   ]
+  ],
+  "chips": [
+   [
+    "Roasted Makhana (Fox Nuts)",
+    "Lower-sodium crunchy snack."
+   ],
+   [
+    "Roasted Chana (Chickpea)",
+    "More fiber and protein per serving."
+   ]
+  ],
+  "namkeen": [
+   [
+    "Roasted Makhana (Fox Nuts)",
+    "Lower-sodium, peanut-free snack."
+   ],
+   [
+    "Roasted Chana Chaat",
+    "Fresh, higher-fiber savoury snack."
+   ]
+  ],
+  "milk": [
+   [
+    "Oat Milk",
+    "Dairy-free milk alternative."
+   ],
+   [
+    "Lactose-free Milk",
+    "Cow's milk with the lactose broken down (not for milk allergy)."
+   ]
+  ],
+  "paneer": [
+   [
+    "Tofu",
+    "Similar texture, dairy-free."
+   ],
+   [
+    "Soya Chunks Curry",
+    "Dairy-free vegetarian protein."
+   ]
+  ],
+  "bread": [
+   [
+    "Jowar Roti",
+    "Millet flatbread without wheat."
+   ],
+   [
+    "Ragi Dosa",
+    "Wheat-free, fermented."
+   ]
+  ],
+  "juice": [
+   [
+    "Orange (Medium)",
+    "Whole fruit keeps the fiber and has less free sugar."
+   ],
+   [
+    "Coconut Water (Fresh)",
+    "No added sugar."
+   ]
+  ],
+  "cola": [
+   [
+    "Buttermilk/Chaas (Salted)",
+    "No added sugar."
+   ],
+   [
+    "Green Tea (Unsweetened)",
+    "No sugar or calories."
+   ]
+  ]
+ },
+ "by_conflict": {
+  "peanut": [
+   [
+    "Sunflower Seed Butter",
+    "Peanut-free spread."
+   ],
+   [
+    "Roasted Makhana (Fox Nuts)",
+    "Peanut-free crunchy snack."
+   ],
+   [
+    "Roasted Pumpkin Seeds",
+    "Peanut-free source of protein."
+   ]
+  ],
+  "tree_nut": [
+   [
+    "Roasted Pumpkin Seeds",
+    "Seed-based, no tree nuts."
+   ],
+   [
+    "Roasted Makhana (Fox Nuts)",
+    "Nut-free snack (makhana is a seed)."
+   ]
+  ],
+  "milk": [
+   [
+    "Oat Milk",
+    "Dairy-free milk alternative."
+   ],
+   [
+    "Tofu",
+    "Dairy-free protein, similar to paneer."
+   ]
+  ],
+  "lactose": [
+   [
+    "Lactose-free Milk",
+    "Lactose already broken down."
+   ],
+   [
+    "Oat Milk",
+    "Naturally lactose-free."
+   ],
+   [
+    "Plain Dosa",
+    "No dairy ingredients."
+   ]
+  ],
+  "egg": [
+   [
+    "Besan Chilla (2 pieces)",
+    "Egg-free savoury pancake."
+   ],
+   [
+    "Tofu",
+    "Egg-free protein."
+   ]
+  ],
+  "soy": [
+   [
+    "Roasted Chana (Chickpea)",
+    "Soy-free legume protein."
+   ],
+   [
+    "Paneer",
+    "Soy-free vegetarian protein."
+   ]
+  ],
+  "wheat": [
+   [
+    "Jowar Roti",
+    "Millet flatbread, no wheat."
+   ],
+   [
+    "Ragi Dosa",
+    "Wheat-free breakfast option."
+   ],
+   [
+    "Rice Noodles",
+    "Wheat-free noodles."
+   ]
+  ],
+  "gluten": [
+   [
+    "Jowar Roti",
+    "Naturally gluten-free millet."
+   ],
+   [
+    "Idli (2 pieces)",
+    "Rice and lentil based."
+   ],
+   [
+    "Rice Noodles",
+    "Gluten-free noodles."
+   ]
+  ],
+  "sesame": [
+   [
+    "Roasted Pumpkin Seeds",
+    "Sesame-free seeds."
+   ]
+  ],
+  "mustard": [
+   [
+    "Plain Dosa",
+    "Usually prepared without mustard."
+   ]
+  ],
+  "fish": [
+   [
+    "Paneer Tikka",
+    "Vegetarian protein."
+   ],
+   [
+    "Soya Chunks Curry",
+    "Plant protein."
+   ]
+  ],
+  "shellfish": [
+   [
+    "Paneer Tikka",
+    "Vegetarian protein."
+   ],
+   [
+    "Chole (Chickpea Curry)",
+    "Plant protein."
+   ]
+  ],
+  "non_veg": [
+   [
+    "Paneer Tikka",
+    "Vegetarian protein option."
+   ],
+   [
+    "Soya Chunks Curry",
+    "High-protein vegetarian curry."
+   ],
+   [
+    "Rajma (Kidney Bean Curry)",
+    "Protein and fiber from beans."
+   ]
+  ],
+  "high_sodium": [
+   [
+    "Roasted Makhana (Fox Nuts)",
+    "Much less sodium per serving."
+   ],
+   [
+    "Vegetable Salad",
+    "Minimally processed."
+   ],
+   [
+    "Frozen Mixed Vegetables",
+    "Low sodium, minimal processing."
+   ]
+  ],
+  "high_sugar": [
+   [
+    "Apple (Medium)",
+    "Whole fruit with fiber."
+   ],
+   [
+    "Plain Greek Yogurt",
+    "No added sugar, high protein."
+   ],
+   [
+    "Dark Chocolate (70%)",
+    "Less sugar than milk chocolate."
+   ]
+  ],
+  "fructose": [
+   [
+    "Plain Greek Yogurt",
+    "No added fructose sweeteners."
+   ],
+   [
+    "Plain Dosa",
+    "No sweeteners."
+   ]
+  ],
+  "high_potassium": [
+   [
+    "Bottle Gourd (Lauki, Cooked)",
+    "Lower-potassium vegetable."
+   ],
+   [
+    "Apple (Medium)",
+    "Lower-potassium fruit."
+   ]
+  ],
+  "refined_flour": [
+   [
+    "Jowar Roti",
+    "Whole-grain millet instead of maida."
+   ],
+   [
+    "Moong Sprouts Salad",
+    "High fiber, no refined flour."
+   ]
+  ]
+ }
+}

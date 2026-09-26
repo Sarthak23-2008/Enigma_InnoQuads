@@ -1,5 +1,9 @@
 # SafeBite
 
+Team Name : InnoQuads
+
+Team Members : Aayush Prajapati , Sarthak Khadapkar , Vedant Sakpal , Aryan Dhumal
+
 **Know what's in your food. Know what it means for you.**
 
 SafeBite is a personalized food-safety and dietary-pattern assistant built for **ENIGMA 5.0, HealthTech PS3: Personalized Hidden-Ingredient & Dietary-Risk Alert System**.

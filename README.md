@@ -1,6 +1,6 @@
 # SafeBite
 
-Team Name : InnoQuads
+Team : InnoQuads
 
 Team Members : Aayush Prajapati , Sarthak Khadapkar , Vedant Sakpal , Aryan Dhumal
 
